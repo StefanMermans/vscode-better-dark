@@ -2,7 +2,7 @@
     "name": "better-dark",
     "displayName": "better-dark",
     "description": "A \"better\" dark theme for visual studio code based on the default dark theme. this theme is mainly for personal use, but feel free to try it.",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "publisher": "Stefan",
     "engines": {
         "vscode": "^1.17.0"
